@@ -17,7 +17,7 @@ For these reasons BetSentiment.com provides files with list of tweets and their 
 The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analysed with AWS Comprehend. Sentiment is classify to either positive, negative, neutral, or mixed.
 
 ## For more info please check our article on medium
-https://medium.com/@media_73863/
+https://medium.com/@media_73863/fasttext-sentiment-analysis-for-tweets-a-straightforward-guide-9a8c070449a2
 
 And check https://betsentiment.com/ for Fan Sentiment Analysis and Machine Learning applied to sports betting.
 
