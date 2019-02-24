@@ -12,7 +12,7 @@ For these reasons BetSentiment.com provides files with list of tweets and their 
 * French => 250 000 tweets
 * Italian => 425 000 tweets
 * German => 210 000 tweets
-https://betsentiment.com/resources
+* Available here: https://betsentiment.com/resources
 
 The sentiment was generated thanks to AWS Comprehend API. For Spanish and French, tweets were first translated to English using Google Translate, and then analysed with AWS Comprehend. Sentiment is classify to either positive, negative, neutral, or mixed.
 
