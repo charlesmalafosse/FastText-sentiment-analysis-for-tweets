@@ -1,6 +1,9 @@
 # FastText sentiment analysis for tweets: A straightforward guide.
 In this repository we show how to train a sentiment analysis model using fastText. (Cleaning, upsampling and sentiments for tweets)
 
+## Support me on Medium
+Become a member on Medium and support my work (affiliate link): https://medium.com/@charlesmalafosse/membership
+
 ## FastText - Shallow neural network architecture
 FastText is an open source NLP library developed by facebook AI and initially released in 2016. Its goal is to provide word embedding and text classification in a efficient manner. According to their authors, it is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation.
 
